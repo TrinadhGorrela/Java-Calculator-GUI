@@ -57,11 +57,6 @@ public class SimpleCalculator {
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
 		
-		
-		ImageIcon image = new ImageIcon("logo.png");
-		frame.setIconImage(image.getImage());
-		
-
 		textField = new JTextField();
 		textField.setBounds(10, 11, 261, 65);
 		textField.setFont(new Font("Tahoma", Font.BOLD, 24));
