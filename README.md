@@ -1,6 +1,6 @@
  Java Swing Calculator
 
-A stylish and functional **Java Swing Calculator** built by **Trinadh**. This calculator supports basic arithmetic and power operations with a user-friendly graphical interface.
+A stylish and functional **Java Swing Calculator** developed by **Siva Satya Trinadh Gorrela**, featuring basic arithmetic and power operations in a user-friendly GUI.
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -43,7 +43,8 @@ cacluator/
 
  About Me
 
- Made by [Trinadh](https://github.com/TrinadhGorrela) — a passionate Java learner building awesome GUI projects!
+Made by [Siva Satya Trinadh Gorrela](https://github.com/TrinadhGorrela), a Java enthusiast who enjoys building simple and useful GUI applications.
+
 
 ---
 
