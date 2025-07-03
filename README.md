@@ -22,24 +22,14 @@ A stylish and functional **Java Swing Calculator** developed by **Siva Satya Tri
 
 ---
 
-Project Structure
-
-````````````````````````
-cacluator/
-├── src/
-│   ├── SimpleCalculator.java
-│   └── CalculatorLogic.java
-├── .gitignore
-├── README.md
-```
-
----
 
  How to Run
 
 1. Open the project in Eclipse or any Java IDE.
 2. Compile and run `SimpleCalculator.java`.
 3. Enjoy your calculator with GUI.
+
+----------------------------------------------------------------------------------------------------
 
  About Me
 
